@@ -13,7 +13,7 @@
     margin: auto;
     padding: 0;
 
-    background: #e8ecf1;
+    background: #e8eee9;
 }
 
 header {
@@ -24,7 +24,7 @@ header {
 
     text-align: center;
     color: #fff;
-    background: #28456b;
+    background: #1B7738;
 
     box-shadow: 0 0.15em 0 0 rgba(0,0,0,0.3);
 }
@@ -40,7 +40,7 @@ header {
 }
 
 .description > h3, h3.card-title {
-    color: #4b4b5a;
+    color: #225633;
     font-size: 1.5em;
     -webkit-margin-before: 0;
     -webkit-margin-after: 0;
@@ -70,7 +70,7 @@ header {
     padding: 0.6em;
     padding-left: 1em;
 
-    background: #41618a;
+    background: #3E995B;
 
     box-shadow: 0 0.15em 0 0 rgba(0,0,0,0.3);
     overflow: hidden;
@@ -118,11 +118,11 @@ header > h1 {
 
     color: inherit;
     text-decoration: none;
-    color: #026BA6;
+    color: #16632D;
 }
 
 .sub-list a:hover {
-    color: #013654;
+    color: #239948;
     transition: color 0.3s ease-out;
 }
 
@@ -176,7 +176,7 @@ h3.card-title {
 }
 
 .card > h4 {
-    background: #41618a;
+    background: #3E995B;
 }
 
 .card > h5 {
@@ -185,7 +185,7 @@ h3.card-title {
 }
 
 .card.right > h4 {
-    background: #a77c3a;
+    background: #A83A44;
 }
 
 .card > div {
@@ -242,7 +242,7 @@ h3.card-title {
     text-decoration: none;
     text-align: center;
     color: white;
-    background: #41618a;
+    background: #3E995B;
 }
 
 .back-button::after {
@@ -252,7 +252,7 @@ h3.card-title {
 }
 
 .back-button:hover {
-    background: #8694a7;
+    background: #809988;
     transition: background-color 0.2s ease-out;
 }
 
