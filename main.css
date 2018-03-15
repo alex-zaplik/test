@@ -276,12 +276,12 @@ h3.card-title {
     }
 
     .hobbies > .sub-header {
-        border-left: 1px solid #3a5271;
+        border-left: 1px solid #3b754e;
     }
 
     .hobbies > .sub-list ul {
         border-left: 1px solid;
-        border-image:  linear-gradient(#cedef3, #e8ecf1) 1 100%;
+        border-image:  linear-gradient(#dde4dd, #e8ecf1) 1 100%;
     }
 
     .card.left {
